@@ -1,6 +1,6 @@
 {
   "name": "co-webdriver-runner",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Write browser tests using webdriver/selenium/chromedriver using generators & tap",
   "main": "co-webdriver-runner.js",
   "scripts": {
